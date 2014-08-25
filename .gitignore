@@ -1,0 +1,3 @@
+data/raw
+.DS_STORE
+data/exported/*.csv
